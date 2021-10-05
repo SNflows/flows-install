@@ -1,0 +1,7 @@
+flows/**
+!flows/setup.py
+!flows/config.cfg
+!flows/configure.py
+
+flows-photometry/**
+!flows-photometry/setup.py
