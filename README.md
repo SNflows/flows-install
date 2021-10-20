@@ -1,7 +1,3 @@
-`$ pip install git+https://github.com/sholmbo/flows-install#egg=flows\&subdirectory=flows`
+`$ pip install git+https://github.com/SNflows/flows-install`
 
 `$ flows-configure`
-
-`$ pip install git+https://github.com/sholmbo/flows-install#egg=flows-photometry\&subdirectory=flows-photometry`
-
-`$ flows-photometry`
