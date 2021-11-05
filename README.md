@@ -1,4 +1,4 @@
-For setting up conda:
+For setting up conda (optional):
 
 `$ conda create -n flows python=3.8 pip wheel`
 
